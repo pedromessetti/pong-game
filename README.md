@@ -1,2 +1,2 @@
-# pong-game
-Play one of the most famous game ever. The Pong Game!
+# Pong
+Jogue um dos jogos mais famosos de todos os tempos. O Pong!
